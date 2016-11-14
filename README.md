@@ -13,7 +13,7 @@ $ npm install -g typescript@2.0
 $ npm install typings --global
 $ npm install -g angular-cli
 $ ng new angular2-todolist
-~~
+~~~
 
 # SpringBoot
 
