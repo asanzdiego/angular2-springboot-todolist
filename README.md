@@ -1,12 +1,12 @@
 # Angular2 
 
-Instalar:
+- Instalar:
 
-- [NodeJS 7+](https://nodejs.org/)
+  - [NodeJS 7+](https://nodejs.org/)
 
-- [Visual Studio Code 1.7+](https://code.visualstudio.com)
+  - [Visual Studio Code 1.7+](https://code.visualstudio.com)
 
-Desde un terminal, ejecutar:
+- Desde un terminal, ejecutar:
 
 ~~~
 $ npm install -g typescript@2.0
@@ -17,23 +17,23 @@ $ ng new angular2-todolist
 
 # SpringBoot
 
-Instalar:
+- Instalar:
 
-- [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+  - [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-- [Apache 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo ;)
+  - [Apache 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo ;)
 
-- [Spring Tool Suite 3.8+](http://spring.io/tools/sts/all) o el editor Java que más te guste ;)
+  - [Spring Tool Suite 3.8+](http://spring.io/tools/sts/all) o el editor Java que más te guste ;)
 
-- [DHC REST Client para Chrome](https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm) o el cliente REST que más rabia te de ;)
+  - [DHC REST Client para Chrome](https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm) o el cliente REST que más rabia te de ;)
  
-Luego:
+- Luego:
 
-- Crear una carpeta llamada springboot-todolist.
+  - Crear una carpeta llamada **springboot-todolist**.
 
-- Descargar en la carpeta el fiecho pom.xml
+  - Descargar en la carpeta **springboot-todolist** el fichero [pom.xml](https://github.com/asanzdiego/angular2-springboot-todolist/raw/master/pom.xml)
 
-Desde un terminal, ejecutar:
+- Desde un terminal, ejecutar:
 
 ~~~
 $ mvn compile
