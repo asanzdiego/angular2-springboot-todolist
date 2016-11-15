@@ -2,9 +2,9 @@
 
 Instalar:
 
-- node v7.0 (https://nodejs.org/)
+- [NodeJS 7+](https://nodejs.org/)
 
-- Visual Studio Code (https://code.visualstudio.com)
+- [Visual Studio Code 1.7+](https://code.visualstudio.com)
 
 Desde un terminal, ejecutar:
 
@@ -19,11 +19,13 @@ $ ng new angular2-todolist
 
 Instalar:
 
-- JDK 8+ (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-- Apache 3.3+ (https://maven.apache.org/)
+- [Apache 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo.
 
-- Spring Tool Suite (http://spring.io/tools/sts/all)
+- [Spring Tool Suite 3.8+](http://spring.io/tools/sts/all) o el editor Java que más te guste.
+
+- [DHC REST Client para Chrome](https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm)
 
 Luego:
 
