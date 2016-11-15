@@ -21,12 +21,12 @@ Instalar:
 
 - [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-- [Apache 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo.
+- [Apache 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo ;)
 
-- [Spring Tool Suite 3.8+](http://spring.io/tools/sts/all) o el editor Java que más te guste.
+- [Spring Tool Suite 3.8+](http://spring.io/tools/sts/all) o el editor Java que más te guste ;)
 
-- [DHC REST Client para Chrome](https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm)
-
+- [DHC REST Client para Chrome](https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm) o el cliente REST que más rabia te de ;)
+ 
 Luego:
 
 - Crear una carpeta llamada springboot-todolist.
