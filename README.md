@@ -14,7 +14,8 @@
 ~$ npm install -g angular-cli
 ~$ ng new angular2-todolist
 ~$ cd angular2-todolist
-~/angular2-todolist$ npm install bootstrap@next
+~/angular2-todolist$ npm install bootstrap
+~/angular2-todolist$ npm install jquery
 ~/angular2-todolist$ npm install angular2-datatable
 ~~~
 
