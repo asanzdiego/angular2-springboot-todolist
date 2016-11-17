@@ -1,4 +1,4 @@
-# Angular2 
+# Angular2 (El Front End)
 
 - Instalar:
 
@@ -9,13 +9,22 @@
 - Desde un terminal, ejecutar:
 
 ~~~
-$ npm install -g typescript@2.0
-$ npm install -g typings
-$ npm install -g angular-cli
-$ ng new angular2-todolist
+~$ npm install -g typescript@2.0
+~$ npm install -g typings
+~$ npm install -g angular-cli
+~$ ng new angular2-todolist
+~$ cd angular2-todolist
+~/angular2-todolist$ npm install bootstrap@next
+~/angular2-todolist$ npm install angular2-datatable
 ~~~
 
-# SpringBoot
+- Y para tener el resultado final y poder copiar y pegar código:
+
+~~~
+$ git clone git@github.com:asanzdiego/angular2-todolist-final.git
+~~~
+
+# SpringBoot (El Back End)
 
 - Instalar:
 
@@ -37,4 +46,10 @@ $ ng new angular2-todolist
 
 ~~~
 $ mvn compile
+~~~
+
+- Y para tener el resultado final y poder copiar y pegar código:
+
+~~~
+$ git clone git@github.com:asanzdiego/springboot-todolist-final.git
 ~~~
