@@ -19,10 +19,16 @@
 ~/angular2-todolist$ npm install angular2-datatable
 ~~~
 
-- Y para tener el resultado final y poder copiar y pegar código:
+- Y para tener el resultado final::
 
 ~~~
-$ git clone git@github.com:asanzdiego/angular2-todolist-final.git
+~$ git clone git@github.com:asanzdiego/angular2-todolist-final.git
+~$ cd angular2-todolist
+~/angular2-todolist$ npm install
+~/angular2-todolist$ npm install bootstrap
+~/angular2-todolist$ npm install jquery
+~/angular2-todolist$ npm install angular2-datatable
+~/angular2-todolist$ ng serve
 ~~~
 
 # SpringBoot (El Back End)
@@ -49,8 +55,11 @@ $ git clone git@github.com:asanzdiego/angular2-todolist-final.git
 $ mvn compile
 ~~~
 
-- Y para tener el resultado final y poder copiar y pegar código:
+- Y para tener el resultado final:
 
 ~~~
-$ git clone git@github.com:asanzdiego/springboot-todolist-final.git
+~$ git clone git@github.com:asanzdiego/springboot-todolist-final.git
+~$ cd springboot-todolist-final
+~/springboot-todolist-final$ mvn package
+~/springboot-todolist-final$ java -jar target/springboot-todolist-final-0.0.0.jar
 ~~~
