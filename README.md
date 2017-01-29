@@ -16,7 +16,7 @@
     - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
 
-- Para instalar [TypeScript](http://www.typescriptlang.org/), [Typings](https://github.com/typings/typings), y [angular-cli](https://cli.angular.io/), desde un terminal, ejecutar:
+- Luego tenéis que instalar [TypeScript](http://www.typescriptlang.org/), [Typings](https://github.com/typings/typings), y [angular-cli](https://cli.angular.io/), y para ello, desde un terminal, teneéis que ejecutar:
 
 ~~~
 ~$ npm install -g typescript@2.0
@@ -24,7 +24,7 @@
 ~$ npm install -g angular-cli
 ~~~
 
-- Luego, para avanzar más rápido el día del taller, partiremos de un proyecto empezado:
+- Luego, para avanzar más rápido el día del taller, partiremos de un proyecto empezado, que para inicializarlo tenéis que ejecutar lo siguiente:
 
 ~~~
 ~$ git clone git@github.com:asanzdiego/angular2-todolist-inicial.git
@@ -50,7 +50,7 @@
   - [DHC REST Client para Chrome](https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm) o el cliente REST que más rabia te de ;)
 
 
-- Luego, para avanzar más rápido el día del taller, partiremos de un proyecto empezado:
+- Luego, para avanzar más rápido el día del taller, partiremos de un proyecto empezado, que para inicializarlo tenéis que ejecutar lo siguiente:
 
 ~~~
 ~$ git clone git@github.com:asanzdiego/springboot-todolist-final.git
