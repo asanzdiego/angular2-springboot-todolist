@@ -29,11 +29,11 @@
 ~~~
 ~$ git clone git@github.com:asanzdiego/angular2-todolist-inicial.git
 ~$ cd angular2-todolist-inicial
-~/angular2-todolist$ npm install
-~/angular2-todolist$ npm install bootstrap
-~/angular2-todolist$ npm install jquery
-~/angular2-todolist$ npm install angular2-datatable
-~/angular2-todolist$ ng serve
+~/angular2-todolist-inicial$ npm install
+~/angular2-todolist-inicial$ npm install bootstrap
+~/angular2-todolist-inicial$ npm install jquery
+~/angular2-todolist-inicial$ npm install angular2-datatable
+~/angular2-todolist-inicial$ ng serve
 ~~~
 
 
