@@ -36,6 +36,7 @@
 ~/angular2-todolist-inicial$ ng serve
 ~~~
 
+- Si abres en un navegador la dirección [http://localhost:4200/](http://localhost:4200/) deberías ver un "Hola mundo".
 
 # SpringBoot (El Back End)
 
@@ -43,7 +44,7 @@
 
   - [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-  - [Apache 3.3+](https://maven.apache.org/)
+  - [Apache 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo ;)
 
   - [Spring Tool Suite 3.8+](http://spring.io/tools/sts/all) o el editor Java que más te guste ;)
 
@@ -53,8 +54,10 @@
 - Luego, para avanzar más rápido el día del taller, partiremos de un proyecto empezado, que para inicializarlo tenéis que ejecutar lo siguiente:
 
 ~~~
-~$ git clone git@github.com:asanzdiego/springboot-todolist-final.git
-~$ cd springboot-todolist-final
-~/springboot-todolist-final$ mvn package
-~/springboot-todolist-final$ java -jar target/springboot-todolist-final-0.0.0.jar
+~$ git clone git@github.com:asanzdiego/springboot-todolist-inicial.git
+~$ cd springboot-todolist-inicial
+~/springboot-todolist-inicial$ mvn package
+~/springboot-todolist-inicial$ java -jar target/springboot-todolist-final-0.0.0.jar
 ~~~
+
+- Si abres en un navegador la dirección [http://localhost:8080/](http://localhost:8080/) deberías ver un "Hola mundo".
