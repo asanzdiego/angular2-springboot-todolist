@@ -57,7 +57,7 @@
 ~$ git clone git@github.com:asanzdiego/springboot-todolist-inicial.git
 ~$ cd springboot-todolist-inicial
 ~/springboot-todolist-inicial$ mvn package
-~/springboot-todolist-inicial$ java -jar target/springboot-todolist-inicial-0.0.0.jar
+~/springboot-todolist-inicial$ java -jar target/springboot-todolist-0.0.0.jar
 ~~~
 
 - Si abres en un navegador la dirección [http://localhost:8080/](http://localhost:8080/) deberías ver un "Hola mundo".
