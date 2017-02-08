@@ -44,7 +44,7 @@
 
   - [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-  - [Apache 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo ;)
+  - [Maven 3.3+](https://maven.apache.org/) o Gradle si sabes y quieres usarlo ;)
 
   - [Spring Tool Suite 3.8+](http://spring.io/tools/sts/all) o el editor Java que más te guste ;)
 
